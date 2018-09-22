@@ -75,6 +75,3 @@ Use the WMI
 Use a Registry lookup
 For those using the .NET framework, the easiest of these is to use DNS, which is a mapping of the WinSock solution presented here, using Dns.GetHostName() and Dns.GetHostByName. Apple MacOS programmers have a similar solution available through the sockets API provided by most standard development tools.
 
-
-
-Read more at Suite101: Socket Programming gethostbyname: How to Obtain the IP Address of the Local Machine on the Network 
