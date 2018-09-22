@@ -1,4 +1,5 @@
-# Socket-Programming-gethostbyname-
+# Socket Programming  using gethostbyname to obtain system ip
+
 How to Obtain the IP Address of the Local Machine on the Network  Socket Programming gethostbyname: How to Obtain the IP Address of the Local Machine on the Network
 
 A method to obtain the correct IP address of the local machine rather than just the localhost 127.0.0.1 address.
